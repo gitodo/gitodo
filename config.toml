@@ -1,0 +1,17 @@
+baseURL = 'https://up.ac.cn/'
+languageCode = 'zh-CN'
+title = '@Plato 海伟 | 出海数字营销'
+copyright = "Copyright © 2022, Plato."
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+[params]
+  description = "Home 页面的TDK描述内容"
+  favicon = "images/favicon.png"
+  title = "@Plato 海伟 | 出海数字营销"
+  dateFormat = "2006-01-02"
+[author]
+  name = '@Plato 海伟'

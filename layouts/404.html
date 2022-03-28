@@ -1,0 +1,9 @@
+{{ define "title" }}页面不存在{{ end }}
+{{ define "main"}}
+    <main id="main">
+      <div>
+       <h1>很抱歉，您要访问的页面不存在！</h1>
+       <p>温馨提示：请检查您访问的网址是否正确，或者点击<a href="{{ "/" | relURL }}">返回首页</a>。</p>
+      </div>
+    </main>
+{{ end }}
