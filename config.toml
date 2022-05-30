@@ -1,6 +1,6 @@
 baseURL = 'https://up.ac.cn/'
 languageCode = 'zh-CN'
-title = '@Plato 海伟 | 出海数字营销'
+title = '@Plato 海伟 | 烧钱美学家'
 copyright = "Copyright © 2022, Plato."
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
@@ -11,7 +11,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 [params]
   description = "Home 页面的TDK描述内容"
   favicon = "images/favicon.png"
-  title = "@Plato 海伟 | 出海数字营销"
+  title = "跨境出海数字营销如何有效烧钱"
   dateFormat = "2006-01-02"
 [author]
-  name = '@Plato 海伟'
+  name = 'Plato 海伟'

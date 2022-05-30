@@ -11,7 +11,9 @@ tags = ["GTM代码管理器",]
 
 ## 利用GTM代码管理器把网站变成灰色
 
-GTM代码管理器是一个 Google 官方工具，安装到网站后，可以用来添加和管理第三方代码段。在 Google 官方的GTM代码管理器帮助中心有更多介绍，例如[设置和安装跟踪代码管理器](https://support.google.com/tagmanager/answer/6103696?hl=zh-Hans)。
+GTM代码管理器（Google Tag Manager）是一个 Google 官方工具，安装到网站后，可以用来添加和管理第三方代码段。GTM代码管理器就像“中间人”，用于连接网站和其他第三方代码。所以只安装GTM没有任何作用，需要在GTM中配置第三方代码后才能发挥作用。
+
+在 Google 官方的GTM代码管理器帮助中心有更多介绍，例如：[设置和安装跟踪代码管理器](https://support.google.com/tagmanager/answer/6103696?hl=zh-Hans)。
 
 将网站变成灰色，方式很多，但归根到底都是通过添加CSS灰色滤镜来改变网站元素的显示。所以你不需要修改现有的任何彩色元素，只需要几行代码即可。
 
