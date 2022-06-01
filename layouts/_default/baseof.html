@@ -12,9 +12,14 @@
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
   {{ partial "style.html" . }}
-  {{- if and (hugo.IsProduction) (.Site.Params.gid) -}}
-  {{ partial "gtag.html" . }}
-  {{ end -}}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-96Z4V0B7J7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-96Z4V0B7J7');
+  </script>
 </head>
 <body>
 <header>
