@@ -11,7 +11,8 @@ ignoreErrors = ["error-disable-taxonomy"]
 [params]
   description = "Home 页面的TDK描述内容"
   favicon = "images/favicon.png"
-  title = "跨境出海数字营销如何有效烧钱"
+  title = "2022年跨境出海数字营销如何有效烧钱"
   dateFormat = "2006-01-02"
+  gid = "G-96Z4V0B7J7"
 [author]
   name = 'Plato 海伟'
