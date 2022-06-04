@@ -1,6 +1,6 @@
 baseURL = 'https://up.ac.cn/'
 languageCode = 'zh-CN'
-title = '@Plato 海伟 | 烧钱美学家'
+title = '烧钱大队长'
 copyright = "Copyright © 2022, Plato."
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
@@ -14,4 +14,4 @@ ignoreErrors = ["error-disable-taxonomy"]
   title = "2022年跨境出海数字营销如何有效烧钱"
   dateFormat = "2006-01-02"
 [author]
-  name = 'Plato 海伟'
+  name = '烧钱大队长'
