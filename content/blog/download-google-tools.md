@@ -9,16 +9,10 @@ Chrome是谷歌的免费网络浏览器，官方提供了离线版的安装包�
 <!--more-->
 ![谷歌浏览器Chrome最新离线安装包下载](/images/2022/0606-谷歌浏览器Chrome最新离线安装包下载.png)
 ## 在 Windows 设备上安装 Chrome
-1. 下载安装文件。
- * [Chrome 最新稳定版 64 位](https://dl.google.com/release2/chrome/ade5ivbjyqxhzr5n4rtzkimdjmpq_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
- * [Chrome 最新稳定版 32 位](https://dl.google.com/release2/chrome/mqb6vsdr3sjna6t734prkfnc2i_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
+1. 下载安装文件：>> [Chrome 最新稳定版 64 位](https://dl.google.com/release2/chrome/ade5ivbjyqxhzr5n4rtzkimdjmpq_102.0.5005.63/102.0.5005.63_chrome_installer.exe) >> [Chrome 最新稳定版 32 位](https://dl.google.com/release2/chrome/mqb6vsdr3sjna6t734prkfnc2i_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
 2. 双击下载的文件，开始安装 Chrome。
 3. 如果系统询问“你要允许此应用对你的设备进行更改吗?”，点击是。
-4. 启动 Chrome：
- * Windows 7：完成所有设置后，系统会打开一个 Chrome 窗口。
- * Windows 8 和 8.1：系统会显示一个欢迎对话框。点击下一步即可选择默认浏览器。
- * Windows 10 和 11：完成所有设置后，系统会打开一个 Chrome 窗口。您可将 Chrome 设为默认浏览器。
-
+4. 启动 Chrome。
 
 ## 在 Mac 上安装 Chrome
 1. [Chrome 最新稳定版安装包 (macOS)](https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg)
@@ -39,4 +33,4 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 ---
 除上述版本的Chrome外，谷歌还推出了企业版本。相对来说更加稳定，更新频率也较低。如果你需要安装Chrome企业版本。可以直接在[chrome enterprise](https://chromeenterprise.google/intl/zh_cn/)首页下载。
 
-如果无法下载，可以发邮件给我，获得Chrome企业版最新安装包。
+如果无法下载，可以[发邮件给我](mailto:up.ac.cns)，获得Chrome企业版最新安装包。
