@@ -10,14 +10,14 @@ Chrome是谷歌的免费网络浏览器，官方提供了离线版的安装包�
 ![谷歌浏览器Chrome最新离线安装包下载](/images/2022/0606-谷歌浏览器Chrome最新离线安装包下载.png)
 ## 在 Windows 设备上安装 Chrome
 1. 下载安装文件。
- 1. [Chrome 最新稳定版 64 位](https://dl.google.com/release2/chrome/ade5ivbjyqxhzr5n4rtzkimdjmpq_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
-  2. [Chrome 最新稳定版 32 位](https://dl.google.com/release2/chrome/mqb6vsdr3sjna6t734prkfnc2i_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
+ * [Chrome 最新稳定版 64 位](https://dl.google.com/release2/chrome/ade5ivbjyqxhzr5n4rtzkimdjmpq_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
+ * [Chrome 最新稳定版 32 位](https://dl.google.com/release2/chrome/mqb6vsdr3sjna6t734prkfnc2i_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
 2. 双击下载的文件，开始安装 Chrome。
 3. 如果系统询问“你要允许此应用对你的设备进行更改吗?”，点击是。
 4. 启动 Chrome：
- 1. Windows 7：完成所有设置后，系统会打开一个 Chrome 窗口。
- 2. Windows 8 和 8.1：系统会显示一个欢迎对话框。点击下一步即可选择默认浏览器。
- 3. Windows 10 和 11：完成所有设置后，系统会打开一个 Chrome 窗口。您可将 Chrome 设为默认浏览器。
+ * Windows 7：完成所有设置后，系统会打开一个 Chrome 窗口。
+ * Windows 8 和 8.1：系统会显示一个欢迎对话框。点击下一步即可选择默认浏览器。
+ * Windows 10 和 11：完成所有设置后，系统会打开一个 Chrome 窗口。您可将 Chrome 设为默认浏览器。
 
 
 ## 在 Mac 上安装 Chrome
