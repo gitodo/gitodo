@@ -15,14 +15,14 @@ Chrome是谷歌的免费网络浏览器，官方提供了离线版的安装包�
 4. 启动 Chrome。
 
 ## 在 Mac 上安装 Chrome
-1. [Chrome 最新稳定版安装包 (macOS)](https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg)
+1. 下载安装文件：[Chrome 最新稳定版安装包 (macOS)](https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg)
 2. 打开名为“googlechrome.pkg”的文件。
 3. 系统可能会要求您输入管理员密码。
 4. 打开 Chrome。
 
 ## 在 Linux 上安装 Chrome
 Linux不同系统的安装包格式不同，这里以Ubuntu系统示例。
-1. [Chrome 最新稳定版安装包 (Ubuntu)](https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb)
+1. 下载安装文件：[Chrome 最新稳定版安装包 (Ubuntu)](https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb)
 2. 进入安装包所在目录，运行以下命令，注意需要管理员权限：
 
 ```
@@ -33,4 +33,4 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 ---
 除上述版本的Chrome外，谷歌还推出了企业版本。相对来说更加稳定，更新频率也较低。如果你需要安装Chrome企业版本。可以直接在[chrome enterprise](https://chromeenterprise.google/intl/zh_cn/)首页下载。
 
-如果无法下载，可以[发邮件给我](mailto:up.ac.cns)，获得Chrome企业版最新安装包。
+如果无法下载，可以[发邮件给我](mailto:plato@up.ac.cn)，获得Chrome企业版最新安装包。
