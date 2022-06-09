@@ -9,7 +9,7 @@ Chrome是谷歌的免费网络浏览器，官方提供了离线版的安装包�
 <!--more-->
 ![谷歌浏览器Chrome最新离线安装包下载](/images/2022/0606-谷歌浏览器Chrome最新离线安装包下载.png)
 ## 在 Windows 设备上安装 Chrome
-1. 下载安装文件：>> [Chrome 最新稳定版 64 位](https://dl.google.com/release2/chrome/ade5ivbjyqxhzr5n4rtzkimdjmpq_102.0.5005.63/102.0.5005.63_chrome_installer.exe) >> [Chrome 最新稳定版 32 位](https://dl.google.com/release2/chrome/mqb6vsdr3sjna6t734prkfnc2i_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
+1. 下载安装文件：二选一，目前的操作系统基本上都是选第一个64位版本 [Chrome 最新稳定版 64 位](https://dl.google.com/release2/chrome/ade5ivbjyqxhzr5n4rtzkimdjmpq_102.0.5005.63/102.0.5005.63_chrome_installer.exe) OR [Chrome 最新稳定版 32 位](https://dl.google.com/release2/chrome/mqb6vsdr3sjna6t734prkfnc2i_102.0.5005.63/102.0.5005.63_chrome_installer.exe)
 2. 双击下载的文件，开始安装 Chrome。
 3. 如果系统询问“你要允许此应用对你的设备进行更改吗?”，点击是。
 4. 启动 Chrome。
