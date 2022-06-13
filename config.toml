@@ -1,6 +1,6 @@
 baseURL = 'https://up.ac.cn/'
 languageCode = 'zh-CN'
-title = '烧钱大队长'
+title = '烧钱学院'
 copyright = "Copyright © 2022, Plato."
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
@@ -9,9 +9,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   blog = "/:slug/"
   tags = "/blog/:slug"
 [params]
-  description = "数据小动作，动机大文章。大家好，我是烧钱大队长，一个专注于数字营销的博主。让我们开启烧钱之旅吧。"
+  description = "数据小动作，动机大文章。大家好，这里是烧钱学院。我是烧钱学院院长 Plato，一个专注于数字营销的博主。让我们开启烧钱之旅吧。"
   favicon = "images/favicon.png"
   title = "跨境出海数字营销如何有效烧钱"
   dateFormat = "2006-01-02"
 [author]
-  name = '烧钱大队长'
+  name = '烧钱学院'

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://up.ac.cn/images/favicon.png" /><title>Shopify店铺使用Cloudflare解析出现身份质询怎么办？ | 烧钱学院</title>
+<meta name="title" content="Shopify店铺使用Cloudflare解析出现身份质询怎么办？" />
+<meta name="description" content="Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify店铺使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？" />
+<meta name="keywords" content="Shopify," /><meta name="referrer" content="no-referrer-when-downgrade" />
+  <style type="text/css">body{font-family:Helvetica,sans-serif;font-size:1.3em;margin:auto;padding:20px;max-width:720px;text-align:justify;background-color:#fff;word-wrap:break-word;overflow-wrap:break-word;line-height:1.5;color:#444;}h1,h2,h3,h4,h5,h6,strong,b{color:#222;}a{color:#3273dc;}.title{text-decoration:none;border:0;}.title span{font-weight:500;}nav a{margin-right:10px;}textarea{width:100%;font-size:16px;}input{font-size:16px;}content{line-height:1.6;}table{width:100%;}img{max-width:100%;}code{padding:2px 5px;background-color:#f2f2f2;}pre code{color:#222;display:block;padding:20px;white-space:pre-wrap;font-size:14px;}div.highlight pre{background-color:initial;color:initial;}div.highlight code{background-color:unset;color:unset;}blockquote{border-left:1px solid #999;color:#222;padding-left:20px;font-style:italic;}footer{padding:25px;text-align:center;}.helptext{color:#777;font-size:small;}.errorlist{color:#eba613;font-size:small;}ul.blog-posts{list-style-type:none;padding:unset;}ul.blog-posts li{display:flex;}ul.blog-posts li span{flex:0 0 130px;}ul.blog-posts li a:visited{color:#8b6fcb;}@media (prefers-color-scheme:dark){body{background-color:#333;color:#ddd;}h1,h2,h3,h4,h5,h6,strong,b{color:#eee;}a{color:#8cc2dd;}code{background-color:#777;}pre code{color:#ddd;}blockquote{color:#ccc;}textarea,input{background-color:#252525;color:#ddd;}.helptext{color:#aaa;}}</style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-96Z4V0B7J7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-96Z4V0B7J7');
+  </script>
+</head>
+<body>
+<header><a href="/" class="title">
+  <h2>烧钱学院</h2>
+</a>
+<nav><a href="/">首页</a>
+
+<a href="/blog">文章</a>
+
+
+<a href="/about/">关于</a>
+</nav>
+</header>
+<main>
+
+<h1>Shopify店铺使用Cloudflare解析出现身份质询怎么办？</h1>
+<p>
+  <i>
+    <time datetime='2022-06-11' pubdate>
+      2022-06-11
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify店铺使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？</p>
+<p>对于大多数网站来说，3分钟就可以解决，不管是Shopify网站还是Wordpress网站，调整后基本不会有任何不良影响。</p>
+<h3 id="使用cloudflare解析后出现身份质询">使用Cloudflare解析后出现身份质询</h3>
+<p>使用Cloudflare解析后，访问Shopify网站出现错误提示，或者需要进行身份质询，例如：</p>
+<ul>
+<li>You are unable to access myshopify.com</li>
+<li>Checking your browser before accessing xxx</li>
+<li>One more step, please complete the security check to access xxx</li>
+</ul>
+<p><img src="/images/2022/0611-%E4%BD%BF%E7%94%A8Cloudflare%E8%A7%A3%E6%9E%90%E5%90%8E%E5%87%BA%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%B4%A8%E8%AF%A2.png" alt="使用Cloudflare解析后出现身份质询"></p>
+<p>有些人发现Shopify网站出现了这类提示，然后把Cloudflare解析换掉后又恢复正常了。如果你的Shopify网站也出现了这类提示，并不是说Shopify网站出了Bug，也不意味着Shopify网站不能使用Cloudflare解析。</p>
+<p>之所以出现这样的提示，确实是因为Cloudflare造成的。出于某种原因，例如你访问网站时开启了不安全的VPN等，Cloudflare对你的身份产生了怀疑，于是触发了对你的Shopify网站的保护机制。</p>
+<p>上面的提示并不总是出现，可能很多粗心的卖家根本没有发现这个问题。而且即便是自己测试的时候没有遇到，也难以避免其他真实的买家遇到，这就非常影响店铺体验。试想，买家点击你发布的产品广告后，首先看到的是Cloudflare的身份质询页面，有多少人会选择停留或者配合完成质询呢？并且，人们通常会站在自己的角度考虑问题，所以当你的店铺访客看到Cloudflare的身份质询页面时，首先想到的肯定不是自己的身份出了问题，而是认为是你的店铺有问题，还会降低对店铺的信任度。</p>
+<h3 id="我的shopify网站需要取消cloudflare解析吗">我的Shopify网站需要取消Cloudflare解析吗？</h3>
+<p>不用。</p>
+<p>你的Shopify网站可以继续使用Cloudflare解析，只需修改Cloudflare解析中的【安全级别】即可，具体步骤如下：</p>
+<ol>
+<li>登录你的Cloudflare账户</li>
+<li>找到Shopify网站对应的域名</li>
+<li>点击域名后，选择【安全性】-【设置】</li>
+<li>修改【安全级别】调整您网站的安全级别，确定哪些访问者将收到质询页面</li>
+<li>将【安全级别】设置为“本质上为关”</li>
+</ol>
+<p><img src="/images/2022/0611-%E8%AE%BE%E7%BD%AECloudflare%E5%AE%89%E5%85%A8%E7%BA%A7%E5%88%AB.png" alt="设置Cloudflare安全级别"></p>
+<p>将Cloudflare中对应域名的【安全级别】设置为“本质上为关”后，再次访问你的Shopify网站，就不会出现身份质询了。</p>
+<h3 id="关闭后我的shopify网站会不安全吗">关闭后我的Shopify网站会不安全吗？</h3>
+<p>很安全。</p>
+<p>你的店铺安全性在于Shopify网站的安全性，只要Shopify安全，你的店铺就安全，跟Cloudflare的设置无关。当然，前提是你没有使用一些破解的Shopify主题或者APP等。</p>
+<p>类似于你使用Google邮箱，你用安全的方式使用就不可能被盗，否则就是Google邮箱系统出了问题。但如果你电脑有病毒，很可能你的所有账户都不安全。这时候Cloudflare的身份质询就类似于杀毒软件的功能，可以帮助你识别并杀死病毒，保护你电脑中记录的Google邮箱密码。</p>
+<h3 id="非shopify店铺可以关闭cloudflare身份质询吗">非Shopify店铺可以关闭Cloudflare身份质询吗？</h3>
+<p>可以放心关闭。</p>
+<p>除非你被“仇家”盯上，一个小的电商网站基本上不用过分担心安全问题。一来攻击一个小网站根本无利可图，二来业内搭建网站的工具（例如Wordpress等）本身安全性已经做的很好，三来网站的服务器提供商也有一定的防御机制。</p>
+<p>但总是有一些做坏事的人，对普遍存在的漏洞扫描，发现一批存在漏洞的网站。所以，如果你做的不及格，网站很可能就会牺牲品。反之，只要做到及格，即便不是那么优秀，也可以成功躲过。</p>
+<p>有利于保护网站的基本操作包括：</p>
+<ol>
+<li>不使用任何破解主题或破解插件</li>
+<li>及时更新网站系统，例如Wordpress版本等</li>
+<li>只开放必要的服务器端口，例如22、80、443等</li>
+<li>不使用简单密码，例如123456等</li>
+</ol>
+<p>类似的建议有很多，之所以称这些为及格操作，是因为这些设置都很简单，而且只需设置一次，省时省心。</p>
+<p>除此之外，建议设置每周自动备份网站和对应的数据库。万一出了问题，可以快速恢复网站。</p>
+</content>
+<p>
+  
+  <a href="https://up.ac.cn/blog/shopify/">#Shopify</a>
+  
+</p>
+</main>
+<footer>Copyright © 2022 <a href="https://up.ac.cn">Plato</a></footer>
+</body>
+</html>

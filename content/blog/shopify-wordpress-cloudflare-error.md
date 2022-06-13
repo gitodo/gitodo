@@ -1,12 +1,12 @@
 +++
-title = "Shopify网站使用Cloudflare解析出现身份质询怎么办？"
+title = "Shopify店铺使用Cloudflare解析出现身份质询怎么办？"
 date = "2022-06-11T11:14:34+08:00"
-description = "Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify网站使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？"
+description = "Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify店铺使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？"
 
 tags = ["Shopify",]
 +++
 
-Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify网站使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？
+Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify店铺使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？
 <!--more-->
 
 对于大多数网站来说，3分钟就可以解决，不管是Shopify网站还是Wordpress网站，调整后基本不会有任何不良影响。

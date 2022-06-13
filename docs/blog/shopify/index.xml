@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shopify on 烧钱大队长</title>
+    <title>Shopify on 烧钱学院</title>
     <link>https://up.ac.cn/blog/shopify/</link>
-    <description>Recent content in Shopify on 烧钱大队长</description>
+    <description>Recent content in Shopify on 烧钱学院</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright © 2022, Plato.</copyright>
     <lastBuildDate>Sat, 11 Jun 2022 11:14:34 +0800</lastBuildDate><atom:link href="https://up.ac.cn/blog/shopify/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shopify网站使用Cloudflare解析出现身份质询怎么办？</title>
-      <link>https://up.ac.cn/shopify%E7%BD%91%E7%AB%99%E4%BD%BF%E7%94%A8cloudflare%E8%A7%A3%E6%9E%90%E5%87%BA%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%B4%A8%E8%AF%A2%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
+      <title>Shopify店铺使用Cloudflare解析出现身份质询怎么办？</title>
+      <link>https://up.ac.cn/shopify%E5%BA%97%E9%93%BA%E4%BD%BF%E7%94%A8cloudflare%E8%A7%A3%E6%9E%90%E5%87%BA%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%B4%A8%E8%AF%A2%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
       <pubDate>Sat, 11 Jun 2022 11:14:34 +0800</pubDate>
       
-      <guid>https://up.ac.cn/shopify%E7%BD%91%E7%AB%99%E4%BD%BF%E7%94%A8cloudflare%E8%A7%A3%E6%9E%90%E5%87%BA%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%B4%A8%E8%AF%A2%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
-      <description>&lt;p&gt;Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify网站使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？&lt;/p&gt;</description>
+      <guid>https://up.ac.cn/shopify%E5%BA%97%E9%93%BA%E4%BD%BF%E7%94%A8cloudflare%E8%A7%A3%E6%9E%90%E5%87%BA%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%B4%A8%E8%AF%A2%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
+      <description>&lt;p&gt;Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify店铺使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？&lt;/p&gt;</description>
     </item>
     
   </channel>
