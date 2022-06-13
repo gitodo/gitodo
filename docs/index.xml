@@ -6,13 +6,15 @@
     <description>Recent content on 烧钱学院</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright © 2022, Plato.</copyright>
+    <managingEditor>微信：adguru (Plato 海伟)</managingEditor>
+    <webMaster>微信：adguru (Plato 海伟)</webMaster>
+    <copyright>Copyright © 2022, https://up.ac.cn.</copyright>
     <lastBuildDate>Sat, 11 Jun 2022 11:14:34 +0800</lastBuildDate><atom:link href="https://up.ac.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shopify店铺使用Cloudflare解析出现身份质询怎么办？</title>
       <link>https://up.ac.cn/shopify%E5%BA%97%E9%93%BA%E4%BD%BF%E7%94%A8cloudflare%E8%A7%A3%E6%9E%90%E5%87%BA%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%B4%A8%E8%AF%A2%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
       <pubDate>Sat, 11 Jun 2022 11:14:34 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/shopify%E5%BA%97%E9%93%BA%E4%BD%BF%E7%94%A8cloudflare%E8%A7%A3%E6%9E%90%E5%87%BA%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%B4%A8%E8%AF%A2%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
       <description>&lt;p&gt;Cloudflare 是一个网络工具，提供免费的 CDN 和域名解析服务。但有些Shopify店铺使用Cloudflare解析出现身份质询，严重影响网站体验。遇到这种情况怎么处理呢？是否需要取消Cloudflare解析？&lt;/p&gt;</description>
     </item>
@@ -21,7 +23,7 @@
       <title>30分钟安装Google Tag Manager，从此调整埋点不求人</title>
       <link>https://up.ac.cn/30%E5%88%86%E9%92%9F%E5%AE%89%E8%A3%85google-tag-manager%E4%BB%8E%E6%AD%A4%E8%B0%83%E6%95%B4%E5%9F%8B%E7%82%B9%E4%B8%8D%E6%B1%82%E4%BA%BA/</link>
       <pubDate>Wed, 08 Jun 2022 11:14:34 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/30%E5%88%86%E9%92%9F%E5%AE%89%E8%A3%85google-tag-manager%E4%BB%8E%E6%AD%A4%E8%B0%83%E6%95%B4%E5%9F%8B%E7%82%B9%E4%B8%8D%E6%B1%82%E4%BA%BA/</guid>
       <description>&lt;p&gt;GTM代码管理器（Google Tag Manager）是一个 Google 官方工具，安装Google Tag Manager到网站后，可以用来添加和管理第三方代码段。GTM代码管理器就像“中间人”，用于连接网站和其他第三方代码。所以只安装GTM没有任何作用，需要在GTM中配置第三方代码后才能发挥作用。&lt;/p&gt;</description>
     </item>
@@ -30,7 +32,7 @@
       <title>谷歌浏览器Chrome最新离线安装包下载</title>
       <link>https://up.ac.cn/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8chrome%E6%9C%80%E6%96%B0%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85%E4%B8%8B%E8%BD%BD/</link>
       <pubDate>Mon, 06 Jun 2022 10:41:11 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8chrome%E6%9C%80%E6%96%B0%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85%E4%B8%8B%E8%BD%BD/</guid>
       <description>&lt;p&gt;Chrome是谷歌的免费网络浏览器，官方提供了离线版的安装包，可以直接从谷歌官网免费下载。但由于网络问题，大陆用户下载安装很不方便。如果你准备在Windows、Mac 或 Linux 计算机上部署Chrome浏览器，本文提供了谷歌浏览器Chrome最新离线安装包下载。&lt;/p&gt;</description>
     </item>
@@ -39,7 +41,7 @@
       <title>在Excel中使用SHA256加密，谷歌广告上传目标客户匹配数据</title>
       <link>https://up.ac.cn/%E5%9C%A8excel%E4%B8%AD%E4%BD%BF%E7%94%A8sha256%E5%8A%A0%E5%AF%86%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E4%B8%8A%E4%BC%A0%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7%E5%8C%B9%E9%85%8D%E6%95%B0%E6%8D%AE/</link>
       <pubDate>Sun, 05 Jun 2022 10:41:11 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/%E5%9C%A8excel%E4%B8%AD%E4%BD%BF%E7%94%A8sha256%E5%8A%A0%E5%AF%86%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E4%B8%8A%E4%BC%A0%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7%E5%8C%B9%E9%85%8D%E6%95%B0%E6%8D%AE/</guid>
       <description>&lt;p&gt;谷歌广告推广中，如果上传目标客户匹配数据，可以帮助系统更好地完成机器学习，达到优化获客成本的目的。在上传目标客户匹配数据之前，为了确保数据的机密性和安全性，需要将实际的电子邮件地址和电话号码等信息转换为哈希代码，也就是哈希算法 SHA256。&lt;/p&gt;</description>
     </item>
@@ -48,7 +50,7 @@
       <title>Gmail广告系列将于2022年6月28日正式下线</title>
       <link>https://up.ac.cn/gmail%E5%B9%BF%E5%91%8A%E7%B3%BB%E5%88%97%E5%B0%86%E4%BA%8E2022%E5%B9%B46%E6%9C%8828%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%B8%8B%E7%BA%BF/</link>
       <pubDate>Wed, 01 Jun 2022 11:14:34 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/gmail%E5%B9%BF%E5%91%8A%E7%B3%BB%E5%88%97%E5%B0%86%E4%BA%8E2022%E5%B9%B46%E6%9C%8828%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%B8%8B%E7%BA%BF/</guid>
       <description>&lt;p&gt;2022年6月1日，Google再次推送&lt;code&gt;[Important]&lt;/code&gt;标识的系统邮件，提示Gmail广告系列将于2022年6月28日正式下线。&lt;/p&gt;</description>
     </item>
@@ -57,7 +59,7 @@
       <title>用GTM就能3分钟内把网站变成灰色，这事还要什么网站开发</title>
       <link>https://up.ac.cn/%E7%94%A8gtm%E5%B0%B1%E8%83%BD3%E5%88%86%E9%92%9F%E5%86%85%E6%8A%8A%E7%BD%91%E7%AB%99%E5%8F%98%E6%88%90%E7%81%B0%E8%89%B2%E8%BF%99%E4%BA%8B%E8%BF%98%E8%A6%81%E4%BB%80%E4%B9%88%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91/</link>
       <pubDate>Thu, 12 May 2022 11:14:34 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/%E7%94%A8gtm%E5%B0%B1%E8%83%BD3%E5%88%86%E9%92%9F%E5%86%85%E6%8A%8A%E7%BD%91%E7%AB%99%E5%8F%98%E6%88%90%E7%81%B0%E8%89%B2%E8%BF%99%E4%BA%8B%E8%BF%98%E8%A6%81%E4%BB%80%E4%B9%88%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91/</guid>
       <description>&lt;p&gt;每逢重大灾难事件，国内很多网站将设计变成灰色，以示哀悼之情。整个网站变灰色是怎么实现的？如果网站已经安装了GTM代码管理器，你自己3分钟内就能把网站变成灰色。&lt;/p&gt;</description>
     </item>
@@ -66,11 +68,11 @@
       <title>关于</title>
       <link>https://up.ac.cn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/about/</guid>
       <description>关于 烧钱学院 数据小动作，动机大文章。
 大家好，我是 Plato，一个专注于数字营销的博主。
-联系我  💬 微信：adguru 📧 邮箱：plato@up.ac.cn 🔎 网站：up.ac.cn ▶️ YouTube: Plato  FAQ Q：网站是不是有BUG？ A：可以访问 = 没有BUG。那网站怎么长这样？因为“排版越丑咖位越大”。
+联系我  😎 微信：adguru 📧 邮箱：plato@up.ac.cn 🎓 网站：up.ac.cn ▶️ YouTube: Plato 🆕 RSS订阅: RSS  FAQ Q：网站是不是有BUG？ A：可以访问 = 没有BUG。那网站怎么长这样？因为“排版越丑咖位越大”。
 Q：UP.AC.CN 域名有什么特殊吗？ A：没有，我有很多垃圾域名，随便选了个。有想过买个自己名字的域名，后来觉得没必要花这个钱。</description>
     </item>
     

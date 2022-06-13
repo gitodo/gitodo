@@ -1,7 +1,7 @@
 baseURL = 'https://up.ac.cn/'
 languageCode = 'zh-CN'
 title = '烧钱学院'
-copyright = "Copyright © 2022, Plato."
+copyright = "Copyright © 2022, https://up.ac.cn."
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
@@ -14,4 +14,5 @@ ignoreErrors = ["error-disable-taxonomy"]
   title = "跨境出海数字营销如何有效烧钱"
   dateFormat = "2006-01-02"
 [author]
-  name = '烧钱学院'
+  name = 'Plato 海伟'
+  email = "微信：adguru"

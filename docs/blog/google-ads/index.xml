@@ -6,13 +6,15 @@
     <description>Recent content in google-ads on 烧钱学院</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright © 2022, Plato.</copyright>
+    <managingEditor>微信：adguru (Plato 海伟)</managingEditor>
+    <webMaster>微信：adguru (Plato 海伟)</webMaster>
+    <copyright>Copyright © 2022, https://up.ac.cn.</copyright>
     <lastBuildDate>Mon, 06 Jun 2022 10:41:11 +0800</lastBuildDate><atom:link href="https://up.ac.cn/blog/google-ads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>谷歌浏览器Chrome最新离线安装包下载</title>
       <link>https://up.ac.cn/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8chrome%E6%9C%80%E6%96%B0%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85%E4%B8%8B%E8%BD%BD/</link>
       <pubDate>Mon, 06 Jun 2022 10:41:11 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8chrome%E6%9C%80%E6%96%B0%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85%E4%B8%8B%E8%BD%BD/</guid>
       <description>&lt;p&gt;Chrome是谷歌的免费网络浏览器，官方提供了离线版的安装包，可以直接从谷歌官网免费下载。但由于网络问题，大陆用户下载安装很不方便。如果你准备在Windows、Mac 或 Linux 计算机上部署Chrome浏览器，本文提供了谷歌浏览器Chrome最新离线安装包下载。&lt;/p&gt;</description>
     </item>
@@ -21,7 +23,7 @@
       <title>在Excel中使用SHA256加密，谷歌广告上传目标客户匹配数据</title>
       <link>https://up.ac.cn/%E5%9C%A8excel%E4%B8%AD%E4%BD%BF%E7%94%A8sha256%E5%8A%A0%E5%AF%86%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E4%B8%8A%E4%BC%A0%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7%E5%8C%B9%E9%85%8D%E6%95%B0%E6%8D%AE/</link>
       <pubDate>Sun, 05 Jun 2022 10:41:11 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/%E5%9C%A8excel%E4%B8%AD%E4%BD%BF%E7%94%A8sha256%E5%8A%A0%E5%AF%86%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E4%B8%8A%E4%BC%A0%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7%E5%8C%B9%E9%85%8D%E6%95%B0%E6%8D%AE/</guid>
       <description>&lt;p&gt;谷歌广告推广中，如果上传目标客户匹配数据，可以帮助系统更好地完成机器学习，达到优化获客成本的目的。在上传目标客户匹配数据之前，为了确保数据的机密性和安全性，需要将实际的电子邮件地址和电话号码等信息转换为哈希代码，也就是哈希算法 SHA256。&lt;/p&gt;</description>
     </item>
@@ -30,7 +32,7 @@
       <title>Gmail广告系列将于2022年6月28日正式下线</title>
       <link>https://up.ac.cn/gmail%E5%B9%BF%E5%91%8A%E7%B3%BB%E5%88%97%E5%B0%86%E4%BA%8E2022%E5%B9%B46%E6%9C%8828%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%B8%8B%E7%BA%BF/</link>
       <pubDate>Wed, 01 Jun 2022 11:14:34 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/gmail%E5%B9%BF%E5%91%8A%E7%B3%BB%E5%88%97%E5%B0%86%E4%BA%8E2022%E5%B9%B46%E6%9C%8828%E6%97%A5%E6%AD%A3%E5%BC%8F%E4%B8%8B%E7%BA%BF/</guid>
       <description>&lt;p&gt;2022年6月1日，Google再次推送&lt;code&gt;[Important]&lt;/code&gt;标识的系统邮件，提示Gmail广告系列将于2022年6月28日正式下线。&lt;/p&gt;</description>
     </item>

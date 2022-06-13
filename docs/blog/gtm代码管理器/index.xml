@@ -6,13 +6,15 @@
     <description>Recent content in GTM代码管理器 on 烧钱学院</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>Copyright © 2022, Plato.</copyright>
+    <managingEditor>微信：adguru (Plato 海伟)</managingEditor>
+    <webMaster>微信：adguru (Plato 海伟)</webMaster>
+    <copyright>Copyright © 2022, https://up.ac.cn.</copyright>
     <lastBuildDate>Wed, 08 Jun 2022 11:14:34 +0800</lastBuildDate><atom:link href="https://up.ac.cn/blog/gtm%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>30分钟安装Google Tag Manager，从此调整埋点不求人</title>
       <link>https://up.ac.cn/30%E5%88%86%E9%92%9F%E5%AE%89%E8%A3%85google-tag-manager%E4%BB%8E%E6%AD%A4%E8%B0%83%E6%95%B4%E5%9F%8B%E7%82%B9%E4%B8%8D%E6%B1%82%E4%BA%BA/</link>
       <pubDate>Wed, 08 Jun 2022 11:14:34 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/30%E5%88%86%E9%92%9F%E5%AE%89%E8%A3%85google-tag-manager%E4%BB%8E%E6%AD%A4%E8%B0%83%E6%95%B4%E5%9F%8B%E7%82%B9%E4%B8%8D%E6%B1%82%E4%BA%BA/</guid>
       <description>&lt;p&gt;GTM代码管理器（Google Tag Manager）是一个 Google 官方工具，安装Google Tag Manager到网站后，可以用来添加和管理第三方代码段。GTM代码管理器就像“中间人”，用于连接网站和其他第三方代码。所以只安装GTM没有任何作用，需要在GTM中配置第三方代码后才能发挥作用。&lt;/p&gt;</description>
     </item>
@@ -21,7 +23,7 @@
       <title>用GTM就能3分钟内把网站变成灰色，这事还要什么网站开发</title>
       <link>https://up.ac.cn/%E7%94%A8gtm%E5%B0%B1%E8%83%BD3%E5%88%86%E9%92%9F%E5%86%85%E6%8A%8A%E7%BD%91%E7%AB%99%E5%8F%98%E6%88%90%E7%81%B0%E8%89%B2%E8%BF%99%E4%BA%8B%E8%BF%98%E8%A6%81%E4%BB%80%E4%B9%88%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91/</link>
       <pubDate>Thu, 12 May 2022 11:14:34 +0800</pubDate>
-      
+      <author>微信：adguru (Plato 海伟)</author>
       <guid>https://up.ac.cn/%E7%94%A8gtm%E5%B0%B1%E8%83%BD3%E5%88%86%E9%92%9F%E5%86%85%E6%8A%8A%E7%BD%91%E7%AB%99%E5%8F%98%E6%88%90%E7%81%B0%E8%89%B2%E8%BF%99%E4%BA%8B%E8%BF%98%E8%A6%81%E4%BB%80%E4%B9%88%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91/</guid>
       <description>&lt;p&gt;每逢重大灾难事件，国内很多网站将设计变成灰色，以示哀悼之情。整个网站变灰色是怎么实现的？如果网站已经安装了GTM代码管理器，你自己3分钟内就能把网站变成灰色。&lt;/p&gt;</description>
     </item>

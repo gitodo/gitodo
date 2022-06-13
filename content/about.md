@@ -11,10 +11,11 @@ menu = 'main'
 大家好，我是 Plato，一个专注于数字营销的博主。
 
 ## 联系我
-* 💬 微信：adguru
+* 😎 微信：adguru
 * 📧 邮箱：[plato@up.ac.cn](mailto:plato@up.ac.cn)
-* 🔎 网站：[up.ac.cn](/)
+* 🎓 网站：[up.ac.cn](/)
 * ▶️ YouTube: [Plato](https://www.youtube.com/c/aiads)
+* 🆕 RSS订阅: [RSS](https://up.ac.cn/index.xml)
 
 ## FAQ
 Q：网站是不是有BUG？    
