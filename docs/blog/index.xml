@@ -9,7 +9,16 @@
     <managingEditor>微信：adguru (Plato 海伟)</managingEditor>
     <webMaster>微信：adguru (Plato 海伟)</webMaster>
     <copyright>Copyright © 2022, https://up.ac.cn.</copyright>
-    <lastBuildDate>Thu, 16 Jun 2022 10:41:11 +0800</lastBuildDate><atom:link href="https://up.ac.cn/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 10:41:11 +0800</lastBuildDate><atom:link href="https://up.ac.cn/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>V97版以上，如何修改Firefox浏览器的滚动条</title>
+      <link>https://up.ac.cn/v97%E7%89%88%E4%BB%A5%E4%B8%8A%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9firefox%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E6%BB%9A%E5%8A%A8%E6%9D%A1/</link>
+      <pubDate>Sat, 18 Jun 2022 10:41:11 +0800</pubDate>
+      <author>微信：adguru (Plato 海伟)</author>
+      <guid>https://up.ac.cn/v97%E7%89%88%E4%BB%A5%E4%B8%8A%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9firefox%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E6%BB%9A%E5%8A%A8%E6%9D%A1/</guid>
+      <description>&lt;p&gt;本来想鼠标离开的时候让滚动条自动隐藏，但现在的 Firefox 中似乎无法实现。无奈 Windows 系统中 Firefox 浏览器的滚动条实在丑陋，无法忍受。所幸终于找到修改滚动条样式的方法，可以做个简单的美化。过程也很简单，1分钟搞定，甚至不需要重启浏览器。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>IE浏览器2022年6月15日正式停用，从96%到2%，IE是如何失败的</title>
       <link>https://up.ac.cn/ie%E6%B5%8F%E8%A7%88%E5%99%A82022%E5%B9%B46%E6%9C%8815%E6%97%A5%E6%AD%A3%E5%BC%8F%E5%81%9C%E7%94%A8%E4%BB%8E96%E5%88%B02ie%E6%98%AF%E5%A6%82%E4%BD%95%E5%A4%B1%E8%B4%A5%E7%9A%84/</link>

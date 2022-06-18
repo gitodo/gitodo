@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://up.ac.cn/images/favicon.png" /><title>V97版以上，如何修改Firefox浏览器的滚动条 | 烧钱学院</title>
+<meta name="title" content="V97版以上，如何修改Firefox浏览器的滚动条" />
+<meta name="description" content="本来想鼠标离开的时候让滚动条自动隐藏，但现在的 Firefox 中似乎无法实现。无奈 Windows 系统中 Firefox 浏览器的滚动条实在丑陋，无法忍受。所幸终于找到修改滚动条样式的方法，可以做个简单的美化。过程也很简单，1分钟搞定，甚至不需要重启浏览器。" />
+<meta name="keywords" content="网络工具," /><meta name="referrer" content="no-referrer-when-downgrade" />
+  <style type="text/css">body{font-family:Helvetica,sans-serif;font-size:1.25em;margin:auto;padding:20px;max-width:720px;text-align:justify;background-color:#fff;word-wrap:break-word;overflow-wrap:break-word;line-height:1.5;color:#444;}h1,h2,h3,h4,h5,h6,strong,b{color:#222;}a{color:#3273dc;}.title{text-decoration:none;border:0;}.title span{font-weight:500;}nav a{margin-right:10px;}textarea{width:100%;font-size:16px;}input{font-size:16px;}content{line-height:2;}table{width:100%;}img{max-width:100%;}code{padding:2px 5px;background-color:#f2f2f2;}pre code{color:#222;display:block;padding:20px;white-space:pre-wrap;font-size:14px;}div.highlight pre{background-color:initial;color:initial;}div.highlight code{background-color:unset;color:unset;}blockquote{border-left:1px solid #999;color:#222;padding-left:20px;font-style:italic;}footer{padding:25px;text-align:center;}.helptext{color:#777;font-size:small;}.errorlist{color:#eba613;font-size:small;}ul.blog-posts{list-style-type:none;padding:unset;}ul.blog-posts li{display:flex;}ul.blog-posts li span{flex:0 0 130px;}ul.blog-posts li a:visited{color:#8b6fcb;}@media (prefers-color-scheme:dark){body{background-color:#333;color:#ddd;}h1,h2,h3,h4,h5,h6,strong,b{color:#eee;}a{color:#8cc2dd;}code{background-color:#777;}pre code{color:#ddd;}blockquote{color:#ccc;}textarea,input{background-color:#252525;color:#ddd;}.helptext{color:#aaa;}}</style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-96Z4V0B7J7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-96Z4V0B7J7');
+  </script>
+</head>
+<body>
+<header><a href="/" class="title">
+  <h2>烧钱学院</h2>
+</a>
+<nav><a href="/">首页</a>
+
+<a href="/blog">文章</a>
+
+
+<a href="/about/">关于</a>
+</nav></header>
+<main>
+
+<h1>V97版以上，如何修改Firefox浏览器的滚动条</h1>
+<p>
+  <i>
+    <time datetime='2022-06-18' pubdate>
+      2022-06-18
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>本来想鼠标离开的时候让滚动条自动隐藏，但现在的 Firefox 中似乎无法实现。无奈 Windows 系统中 Firefox 浏览器的滚动条实在丑陋，无法忍受。所幸终于找到修改滚动条样式的方法，可以做个简单的美化。过程也很简单，1分钟搞定，甚至不需要重启浏览器。</p>
+<h2 id="通过aboutconfig修改firefox滚动条样式">通过<code>about:config</code>修改Firefox滚动条样式</h2>
+<p>97 版本以上的 Firefox 有五种滚动条样式，这五种滚动条样式分别对应了不同的平台。</p>
+<ul>
+<li>macOS 系统</li>
+<li>Linux 系统</li>
+<li>Android 系统</li>
+<li>Windows 10 系统</li>
+<li>Windows 11 系统</li>
+</ul>
+<h3 id="修改firefox滚动条的步骤">修改Firefox滚动条的步骤</h3>
+<ol>
+<li>启动Firefox浏览器</li>
+<li>在地址栏输入<code>about:config</code>，然后按回车键</li>
+<li>点击确认接受风险并继续的提示</li>
+<li>在Config界面找到<code>widget.non-native-theme.scrollbar.style</code></li>
+<li>编辑<code>scrollbar.style</code>的值，默认为<code>0</code></li>
+<li>点击保存对勾形状</li>
+</ol>
+<p><img src="/images/2022/0618-%E4%BF%AE%E6%94%B9Firefox%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F.jpg" alt="修改Firefox滚动条样式"></p>
+<p>有以下6个值可供你选择：</p>
+<ul>
+<li>数值<code>0</code> = 默认滚动条样式</li>
+<li>数值<code>1</code> = macOS 苹果系统样式</li>
+<li>数值<code>2</code> = GTX Linux 系统样式</li>
+<li>数值<code>3</code> = 安卓系统样式</li>
+<li>数值<code>4</code> = Windows 10 样式</li>
+<li>数值<code>5</code> = Windows 11 样式</li>
+</ul>
+<p>修改保存后，浏览器即可就可以更换滚动条的样式。例如当你输入<code>1</code>之后，Firefox 的滚动条形状会变成更圆润的 macOS 样式，当鼠标接触后滚动条的颜色会变成深色。</p>
+<p><img src="/images/2022/0618-macOS%E7%B3%BB%E7%BB%9Ffirefox%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F.jpg" alt="macOS系统firefox滚动条样式"></p>
+<p>如果你想要恢复 Firefox 默认的设置，只需要重新进入<code>about:config</code>，然后把<code>widget.non-native-theme.scrollbar.style</code>的值改回默认的<code>0</code>即可。</p>
+<p>修改 Firefox 的滚动条样式不会对浏览器的性能或其他功能造成任何影响，仅仅改变滚动条的外观。</p>
+<p>此外，在 Firefox 浏览器的扩展程序商店中，也有一些可以改变滚动条样式的插件，例如 <a href="https://addons.mozilla.org/en-GB/firefox/addon/custom-scrollbars/" target="_blank" rel="noopener">Custom Scrollbars 免费插件</a>。不过这些我没有测试过，如果你有兴趣，也可以尝试下。</p>
+</content>
+<p>
+  
+  <a href="https://up.ac.cn/blog/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/">#网络工具</a>
+  
+</p>
+</main>
+<footer>Copyright © <a href="https://up.ac.cn" target="_blank">Plato</a>. 订阅网站 <a href="https://up.ac.cn/index.xml" target="_blank">RSS</a></footer>
+</body>
+</html>

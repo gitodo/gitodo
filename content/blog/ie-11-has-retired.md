@@ -3,7 +3,7 @@ title = "IE浏览器2022年6月15日正式停用，从96%到2%，IE是如何失�
 date = "2022-06-16T10:41:11+08:00"
 description = "Windows、Mac 和 Linux 计算机上部署 Chrome 浏览器，谷歌官方提供了离线版的安装包。可以直接从谷歌官网免费下载，本文提供了Chrome离线安装包的稳定下载方法。"
 
-tags = ["google-ads",]
+tags = ["网络工具",]
 +++
 
 微软 IE 浏览器于 2022 年 6 月 15 日正式停用，最终版本为 Internet Explorer 11，目前 Edge 是 Microsoft 推荐的浏览器。Edge 浏览器可以无障碍同步书签，额外安装 Chrome 网上应用店中的任何扩展程序，同时让你摆脱国内浏览器对正常网络的“负优化”。
