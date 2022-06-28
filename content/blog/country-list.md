@@ -1,6 +1,6 @@
 +++
 title = "世界各洲国家名单Excle列表下载"
-date = "2022-06-05T10:41:11+08:00"
+date = "2022-06-28T10:41:11+08:00"
 description = "全世界分为七大洲，包括亚洲（Asia）、欧洲（Europe）、北美洲（North America）、南美洲（South America）非洲（Africa）、大洋洲（Oceania）、南极洲（Antarctica）。B2B数字营销出海经常会遇到针对某一个大洲的投放操作，本文提供了世界各洲国家列表Excel文件，为批量选定国家提供参考。"
 
 tags = ["google-ads",]
