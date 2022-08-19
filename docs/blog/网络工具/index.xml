@@ -9,7 +9,16 @@
     <managingEditor>微信：adguru (Plato 海伟)</managingEditor>
     <webMaster>微信：adguru (Plato 海伟)</webMaster>
     <copyright>Copyright © 2022, https://up.ac.cn.</copyright>
-    <lastBuildDate>Wed, 17 Aug 2022 10:41:11 +0800</lastBuildDate><atom:link href="https://up.ac.cn/blog/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 10:41:11 +0800</lastBuildDate><atom:link href="https://up.ac.cn/blog/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3个步骤解决Chrome浏览器software reporter tool占用CPU过高</title>
+      <link>https://up.ac.cn/3%E4%B8%AA%E6%AD%A5%E9%AA%A4%E8%A7%A3%E5%86%B3chrome%E6%B5%8F%E8%A7%88%E5%99%A8software-reporter-tool%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98/</link>
+      <pubDate>Fri, 19 Aug 2022 10:41:11 +0800</pubDate>
+      <author>微信：adguru (Plato 海伟)</author>
+      <guid>https://up.ac.cn/3%E4%B8%AA%E6%AD%A5%E9%AA%A4%E8%A7%A3%E5%86%B3chrome%E6%B5%8F%E8%A7%88%E5%99%A8software-reporter-tool%E5%8D%A0%E7%94%A8cpu%E8%BF%87%E9%AB%98/</guid>
+      <description>&lt;p&gt;software_reporter_tool.exe 是 Chrome 浏览器的清理工具，但会自动运行。经常出现引发的问题是 CPU 占用率过高，导致 Chrome 停止工作等。3 步解决 Chrome 浏览器 software_reporter_tool.exe 占用 CPU 过高的问题，不用重置，更不用换浏览器。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>2022年最佳数字营销工具推荐</title>
       <link>https://up.ac.cn/2022%E5%B9%B4%E6%9C%80%E4%BD%B3%E6%95%B0%E5%AD%97%E8%90%A5%E9%94%80%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/</link>

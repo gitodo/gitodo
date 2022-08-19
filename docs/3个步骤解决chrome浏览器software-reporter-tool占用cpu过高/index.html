@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://up.ac.cn/images/favicon.png" /><title>3个步骤解决Chrome浏览器software reporter tool占用CPU过高 | 烧钱学院</title>
+<meta name="title" content="3个步骤解决Chrome浏览器software reporter tool占用CPU过高" />
+<meta name="description" content="software_reporter_tool.exe 是 Chrome 浏览器的清理工具，但会自动运行。经常出现引发的问题是 CPU 占用率过高，导致 Chrome 停止工作等。3 步解决 Chrome 浏览器 software_reporter_tool.exe 占用 CPU 过高的问题，不用重置，更不用换浏览器。" />
+<meta name="keywords" content="网络工具," /><meta name="referrer" content="no-referrer-when-downgrade" />
+  <style type="text/css">body{font-family:Helvetica,sans-serif;font-size:1.25em;margin:auto;padding:20px;max-width:720px;text-align:justify;background-color:#fff;word-wrap:break-word;overflow-wrap:break-word;line-height:1.5;color:#444;}h1,h2,h3,h4,h5,h6,strong,b{color:#222;}a{color:#3273dc;}.title{text-decoration:none;border:0;}.title span{font-weight:500;}nav a{margin-right:10px;}textarea{width:100%;font-size:16px;}input{font-size:16px;}content{line-height:2;}table{width:100%;}img{max-width:100%;}code{padding:2px 5px;background-color:#f2f2f2;}pre code{color:#222;display:block;padding:20px;white-space:pre-wrap;font-size:14px;}div.highlight pre{background-color:initial;color:initial;}div.highlight code{background-color:unset;color:unset;}blockquote{border-left:1px solid #999;color:#222;padding-left:20px;font-style:italic;}footer{padding:25px;text-align:center;}.helptext{color:#777;font-size:small;}.errorlist{color:#eba613;font-size:small;}ul.blog-posts{list-style-type:none;padding:unset;}ul.blog-posts li{display:flex;}ul.blog-posts li span{flex:0 0 130px;}ul.blog-posts li a:visited{color:#8b6fcb;}@media (prefers-color-scheme:dark){body{background-color:#333;color:#ddd;}h1,h2,h3,h4,h5,h6,strong,b{color:#eee;}a{color:#8cc2dd;}code{background-color:#777;}pre code{color:#ddd;}blockquote{color:#ccc;}textarea,input{background-color:#252525;color:#ddd;}.helptext{color:#aaa;}}</style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-96Z4V0B7J7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-96Z4V0B7J7');
+  </script>
+</head>
+<body>
+<header><a href="/" class="title">
+  <h2>烧钱学院</h2>
+</a>
+<nav><a href="/">首页</a>
+
+<a href="/blog">文章</a>
+
+
+<a href="/about/">关于</a>
+</nav></header>
+<main>
+
+<h1>3个步骤解决Chrome浏览器software reporter tool占用CPU过高</h1>
+<p>
+  <i>
+    <time datetime='2022-08-19' pubdate>
+      2022-08-19
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>software_reporter_tool.exe 是 Chrome 浏览器的清理工具，但会自动运行。经常出现引发的问题是 CPU 占用率过高，导致 Chrome 停止工作等。3 步解决 Chrome 浏览器 software_reporter_tool.exe 占用 CPU 过高的问题，不用重置，更不用换浏览器。</p>
+<p><img src="/images/2022/0819-software-reporter-tool-chrome-cpu.jpg" alt="3步解决Chrome浏览器software_reporter_tool.exe占用CPU过高"></p>
+<p>平时几乎不关电脑，今天 Windows 更新被迫重启。然后发现 CPU 逼近 100%，电脑风扇呼呼转。打开任务管理器发现一个<code>software_reporter_tool.exe</code>进程，强制结束后电脑才恢复。</p>
+<p>但<code>software_reporter_tool.exe</code>进程会自动运行，有没有彻底的解决方案呢？</p>
+<h2 id="禁用-software_reporter_toolexe">禁用 Software_Reporter_Tool.exe</h2>
+<p>我们可以直接删除这个工具，无副作用。方法也很简单，3个步骤即可。</p>
+<ol>
+<li>进入<code>software_reporter_tool.exe</code>所在文件夹：在文件资源管理器中打开路径<code>%USERPROFILE%\AppData\Local\Google\Chrome\User Data\</code>，然后删除<code>SwReporter</code></li>
+<li>我们需要新建一个同名的 0 字节文件：右键新建文本文档，把文件名修改为<code>SwReporter</code>，注意不要保留<code>.txt</code>后缀</li>
+<li>最后，我们需要禁止 Chrome 修改此文件：右键文件属性-安全-编辑-Users的权限选择全部选择拒绝</li>
+</ol>
+<p>如何显示文件后缀，请自行搜索。</p>
+</content>
+<p>
+  
+  <a href="https://up.ac.cn/blog/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/">#网络工具</a>
+  
+</p>
+</main>
+<footer>Copyright © <a href="https://up.ac.cn" target="_blank">Plato</a>. 订阅网站 <a href="https://up.ac.cn/index.xml" target="_blank">RSS</a></footer>
+</body>
+</html>
