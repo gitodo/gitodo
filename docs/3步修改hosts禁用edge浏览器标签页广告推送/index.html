@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://up.ac.cn/images/favicon.png" /><title>3步修改Hosts禁用Edge浏览器标签页广告推送 | 烧钱学院</title>
+<meta name="title" content="3步修改Hosts禁用Edge浏览器标签页广告推送" />
+<meta name="description" content="Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆地区又无法通过设置的方式彻底关闭。绕过 Edge 浏览器中的设置，我们可以 3 步修改 Hosts 禁用 Edge 浏览器标签页广告推送。" />
+<meta name="keywords" content="网络工具," /><meta name="referrer" content="no-referrer-when-downgrade" />
+  <style type="text/css">body{font-family:Helvetica,sans-serif;font-size:1.25em;margin:auto;padding:20px;max-width:720px;text-align:justify;background-color:#fff;word-wrap:break-word;overflow-wrap:break-word;line-height:1.5;color:#444;}h1,h2,h3,h4,h5,h6,strong,b{color:#222;}a{color:#3273dc;}.title{text-decoration:none;border:0;}.title span{font-weight:500;}nav a{margin-right:10px;}textarea{width:100%;font-size:16px;}input{font-size:16px;}content{line-height:2;}table{width:100%;}img{max-width:100%;}code{padding:2px 5px;background-color:#f2f2f2;}pre code{color:#222;display:block;padding:20px;white-space:pre-wrap;font-size:14px;}div.highlight pre{background-color:initial;color:initial;}div.highlight code{background-color:unset;color:unset;}blockquote{border-left:1px solid #999;color:#222;padding-left:20px;font-style:italic;}footer{padding:25px;text-align:center;}.helptext{color:#777;font-size:small;}.errorlist{color:#eba613;font-size:small;}ul.blog-posts{list-style-type:none;padding:unset;}ul.blog-posts li{display:flex;}ul.blog-posts li span{flex:0 0 130px;}ul.blog-posts li a:visited{color:#8b6fcb;}@media (prefers-color-scheme:dark){body{background-color:#333;color:#ddd;}h1,h2,h3,h4,h5,h6,strong,b{color:#eee;}a{color:#8cc2dd;}code{background-color:#777;}pre code{color:#ddd;}blockquote{color:#ccc;}textarea,input{background-color:#252525;color:#ddd;}.helptext{color:#aaa;}}</style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-96Z4V0B7J7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-96Z4V0B7J7');
+  </script>
+</head>
+<body>
+<header><a href="/" class="title">
+  <h2>烧钱学院</h2>
+</a>
+<nav><a href="/">首页</a>
+
+<a href="/blog">文章</a>
+
+
+<a href="/about/">关于</a>
+</nav></header>
+<main>
+
+<h1>3步修改Hosts禁用Edge浏览器标签页广告推送</h1>
+<p>
+  <i>
+    <time datetime='2022-08-16' pubdate>
+      2022-08-16
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆地区又无法通过设置的方式彻底关闭。绕过 Edge 浏览器中的设置，我们可以 3 步修改 Hosts 禁用 Edge 浏览器标签页广告推送。</p>
+<p><img src="/images/2022/0816-microsoft-edge-hosts-ads.jpg" alt="3步修改Hosts禁用Edge浏览器标签页广告推送"></p>
+<h2 id="修改hosts禁用edge浏览器标签页广告推">修改Hosts禁用Edge浏览器标签页广告推</h2>
+<ol>
+<li>进入<code>hosts</code>文件目录：在文件管理器中打开<code>C:\Windows\System32\drivers\etc</code></li>
+<li>编辑<code>hosts</code>文件：使用记事本打开<code>hosts</code>文件，并在末尾添加以下内容</li>
+<li>保存<code>hosts</code>文件：保存编辑后的<code>hosts</code>文件，有些情况下没有保存权限，可以先保存到桌面，然后移动替换原来的<code>hosts</code>文件</li>
+</ol>
+<pre tabindex="0"><code># 屏蔽 Edge 浏览器启动页广告
+0.0.0.0 msn.cn
+0.0.0.0 ntp.msn.cn
+0.0.0.0 assets.msn.cn
+0.0.0.0 c.msn.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 img-s-msn-com.akamaized.net
+</code></pre><h2 id="清除缓存的广告文件">清除缓存的广告文件</h2>
+<p>修改完<code>hosts</code>文件后，遗留的旧广告仍然会出现的 Edge 浏览器的标签页中，下一步我们来删除浏览器中的缓存文件。</p>
+<ol>
+<li>删除缓存文件：在 Edge 浏览器中打开 <code>edge://settings/clearBrowserData</code>，勾选缓存图像和文件，然后点击删除</li>
+<li>清除DNS缓存：快捷键<code>Win+R</code>打开运行，输入<code>CMD</code>，打开命令提示符，输入<code>ipconfig /flushdns</code>后按回车</li>
+<li>重启浏览器：重启之后 Edge 浏览器的新标签页就看不到广告推送了</li>
+</ol>
+<p>以上操作不会影响 Edge 浏览器正常工作，对网页访问速度和浏览器的更新无干扰。</p>
+</content>
+<p>
+  
+  <a href="https://up.ac.cn/blog/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/">#网络工具</a>
+  
+</p>
+</main>
+<footer>Copyright © <a href="https://up.ac.cn" target="_blank">Plato</a>. 订阅网站 <a href="https://up.ac.cn/index.xml" target="_blank">RSS</a></footer>
+</body>
+</html>
