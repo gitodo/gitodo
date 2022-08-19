@@ -17,6 +17,8 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 2. 编辑`hosts`文件：使用记事本打开`hosts`文件，并在末尾添加以下内容
 3. 保存`hosts`文件：保存编辑后的`hosts`文件，有些情况下没有保存权限，可以先保存到桌面，然后移动替换原来的`hosts`文件
 
+注意：以下`hosts`内容将屏蔽 Microsoft 的跟踪，可以起到更好的隐私保护效果，并且对绝大部分用户来说没有任何影响。
+
 ```
 # 屏蔽 Edge 浏览器跟踪
 0.0.0.0 msn.cn
@@ -37,8 +39,6 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
-0.0.0.0 account.live.com
-0.0.0.0 account.microsoft.com
 0.0.0.0 activity.microsoft.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adnexus.net
@@ -62,7 +62,6 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
 0.0.0.0 bat.bing.com
-0.0.0.0 bing.com
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.serving-sys.com
@@ -155,9 +154,7 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 officeapps.live.com
-0.0.0.0 outlook.live.com
 0.0.0.0 paymentinstruments.mp.microsoft.com
-0.0.0.0 petrol.office.microsoft.com
 0.0.0.0 pptsgs.officeapps.live.com
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preview.msn.com
@@ -191,7 +188,6 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0 ssl.live.com
 0.0.0.0 ssw.live.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 statsfe1.ws.microsoft.com
@@ -230,8 +226,6 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 windows.msn.com
-0.0.0.0 www.bing.com
-0.0.0.0 www.microsoft.com
 0.0.0.0 www.msftncsi.com
 0.0.0.0 www.msn.com
 0.0.0.0 xpay-int.microsoft.com
