@@ -39,7 +39,6 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
-0.0.0.0 activity.microsoft.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
@@ -65,7 +64,6 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.serving-sys.com
-0.0.0.0 business.bing.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.bing.com
 0.0.0.0 c.live.com
@@ -102,7 +100,6 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 edge.microsoft.com
 0.0.0.0 edgeservices.bing.com
 0.0.0.0 edgeshoppingstatic.azureedge.net
-0.0.0.0 edgesync.microsoft.com
 0.0.0.0 edgetippingservice.webxtsvc.microsoft.com
 0.0.0.0 events-sandbox.data.msn.com
 0.0.0.0 events.data.microsoft.com
@@ -128,17 +125,12 @@ Edge 浏览器的新标签页广告内容可以设置关闭，但在中国大陆
 0.0.0.0 inference.location.live.com
 0.0.0.0 instrumentExport.cp.microsoft.com
 0.0.0.0 lb1.www.ms.akadns.net
-0.0.0.0 live.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 local.cloudbrowser.microsoft.com
-0.0.0.0 login.live.com
-0.0.0.0 login.microsoft.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 m.bing.com
 0.0.0.0 m.hotmail.com
-0.0.0.0 manage.microsoft.com
 0.0.0.0 mathsolver.microsoft.com
-0.0.0.0 microsoftedge.microsoft.com
 0.0.0.0 microsoftedgetips.microsoft.com
 0.0.0.0 microsoftedgewelcome.microsoft.com
 0.0.0.0 microsoftnews.msn.com
